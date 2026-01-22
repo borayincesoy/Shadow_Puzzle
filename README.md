@@ -63,8 +63,8 @@ Setup Steps
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/shadow_puzzle.git
-   cd shadow_puzzle
+   git clone https://github.com/borayincesoy/Shadow_Puzzle.git
+   cd Shadow_Puzzle
    ```
 
 2. Install dependencies
